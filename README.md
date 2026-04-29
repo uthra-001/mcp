@@ -66,7 +66,7 @@ The **Construction Project Risk Predictor** is a conversational AI system powere
 ## 📁 Project Structure
 
 ```
-mcp_kiro/
+mcp/
 │
 ├── 🎨 app.py                   # Streamlit frontend & UI
 ├── 🔗 backend.py               # MCP tools & processing pipeline
@@ -80,9 +80,7 @@ mcp_kiro/
 ├── 📂 tests/                   # Unit tests
 │
 ├── README.md                   # This file
-├── ACCURACY_FIXES.md           # Accuracy improvements
-└── PERFORMANCE_IMPROVEMENTS.md # Performance optimizations
-```
+
 
 ---
 
