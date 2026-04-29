@@ -86,15 +86,15 @@ mcp/
 
 ## 🛠️ Tech Stack
 
-| Component | Technology | Status |
+| **Component | Technology | Status** |
 |-----------|-----------|--------|
-| Frontend | Streamlit | ✅ Active |
-| LLM | Groq API (llama-3.1-8b-instant) | ✅ CONNECTED |
-| Embeddings | sentence-transformers (MiniLM-L6-v2) | ✅ Active |
-| Vector Database | FAISS (cosine similarity) | ✅ Active |
-| PDF Processing | pdfplumber | ✅ Active |
-| Environment | python-dotenv | ✅ CONFIGURED |
-| Framework | Python 3.10+ | ✅ Active |
+| **Frontend** | Streamlit | ✅ Active |
+| **LLM **| Groq API (llama-3.1-8b-instant) | ✅ CONNECTED |
+| **Embeddings** | sentence-transformers (MiniLM-L6-v2) | ✅ Active |
+| **Vector Database** | FAISS (cosine similarity) | ✅ Active |
+| **PDF Processing** | pdfplumber | ✅ Active |
+| **Environment** | python-dotenv | ✅ CONFIGURED |
+| **Framework** | Python 3.10+ | ✅ Active |
 
 ---
 
