@@ -1,0 +1,8 @@
+{"timestamp": "2026-04-27T07:25:43.380373Z", "event": "index_build", "num_chunks": 2, "num_documents": 1, "duration_ms": 197.68}
+{"timestamp": "2026-04-27T07:25:54.039592Z", "event": "index_build", "num_chunks": 1, "num_documents": 1, "duration_ms": 41.79}
+{"timestamp": "2026-04-27T07:26:19.130014Z", "event": "index_build", "num_chunks": 2, "num_documents": 1, "duration_ms": 160.55}
+{"timestamp": "2026-04-27T07:26:27.604124Z", "event": "index_build", "num_chunks": 1, "num_documents": 1, "duration_ms": 33.49}
+{"timestamp": "2026-04-27T07:28:22.550187Z", "event": "index_build", "num_chunks": 2, "num_documents": 1, "duration_ms": 73.06}
+{"timestamp": "2026-04-27T07:28:33.164335Z", "event": "index_build", "num_chunks": 1, "num_documents": 1, "duration_ms": 35.95}
+{"timestamp": "2026-04-27T07:28:54.976294Z", "event": "index_build", "num_chunks": 2, "num_documents": 1, "duration_ms": 137.01}
+{"timestamp": "2026-04-27T07:29:03.972298Z", "event": "index_build", "num_chunks": 1, "num_documents": 1, "duration_ms": 21.16}
