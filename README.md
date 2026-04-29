@@ -66,7 +66,7 @@ The **Construction Project Risk Predictor** is a conversational AI system powere
 ## 📁 Project Structure
 
 ```
-mcp_kiro/
+mcp/
 │
 ├── 🎨 app.py                   # Streamlit frontend & UI
 ├── 🔗 backend.py               # MCP tools & processing pipeline
@@ -208,7 +208,7 @@ streamlit run app.py
 
 ```bash
 # 1. Clone or download the repository
-cd mcp_kiro
+cd mcp
 
 # 2. Create virtual environment (recommended)
 python -m venv venv
