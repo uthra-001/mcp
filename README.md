@@ -66,7 +66,7 @@ The **Construction Project Risk Predictor** is a conversational AI system powere
 ## 📁 Project Structure
 
 ```
-mcp/
+mcp_kiro/
 │
 ├── 🎨 app.py                   # Streamlit frontend & UI
 ├── 🔗 backend.py               # MCP tools & processing pipeline
@@ -81,19 +81,20 @@ mcp/
 │
 ├── README.md                   # This file
 
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-| **Component | Technology | Status** |
+| Component | Technology | Status |
 |-----------|-----------|--------|
 | **Frontend** | Streamlit | ✅ Active |
-| **LLM **| Groq API (llama-3.1-8b-instant) | ✅ CONNECTED |
+| **LLM** | Groq API (llama-3.1-8b-instant) | ✅ **CONNECTED** |
 | **Embeddings** | sentence-transformers (MiniLM-L6-v2) | ✅ Active |
 | **Vector Database** | FAISS (cosine similarity) | ✅ Active |
 | **PDF Processing** | pdfplumber | ✅ Active |
-| **Environment** | python-dotenv | ✅ CONFIGURED |
+| **Environment** | python-dotenv | ✅ **CONFIGURED** |
 | **Framework** | Python 3.10+ | ✅ Active |
 
 ---
@@ -327,3 +328,7 @@ tail -f logs/metrics.jsonl
 - ⏳ Document comparison tools
 
 ---
+
+
+
+
